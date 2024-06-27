@@ -1,6 +1,6 @@
 # Tugas 1
 
-Nama    : Tifanni Diva Auliya
+Nama    : Tifanni Diva Auliya  
 NIM     : 1203210027
 
 1. Download dan install ubuntu 22.04 dari Microsoft store
