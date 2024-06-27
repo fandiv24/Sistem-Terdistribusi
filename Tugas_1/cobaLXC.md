@@ -6,7 +6,7 @@ NIM     : 1203210027
 1. Download dan install ubuntu 22.04 dari Microsoft store
 ![Download Ubuntu!](asset/1.png)
 
-2. Klik kanan icon windows dan buka terminal (admin)
+2. Klik kanan icon windows dan buka terminal (admin)  
 ![Image!](asset/2.png)
 
 3. Masuk ke ubuntu dan buat username dan password
